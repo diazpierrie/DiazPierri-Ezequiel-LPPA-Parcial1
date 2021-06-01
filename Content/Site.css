@@ -22,3 +22,8 @@ select,
 textarea {
     max-width: 280px;
 }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
